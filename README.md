@@ -18,7 +18,3 @@ Authentication and authorization service for the Quotation Management System.
 
 - Stateless service
 - External database
-
-
-## TEMP NOTE
-Disable security temporarily
