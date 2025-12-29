@@ -8,7 +8,7 @@ public class HealthController {
 
     @GetMapping("/health")
     public String health() {
-        return "UP hie vidhan";
+        return "OK OK OK OK OK";
     }
 }
 
